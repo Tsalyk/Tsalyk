@@ -1,4 +1,4 @@
-### Hi there 👋
+![giphy](https://user-images.githubusercontent.com/73395389/166238666-dff79033-7089-4f1c-84c3-2f2641a29e23.gif)
 
 <!--
 **Tsalyk/Tsalyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
